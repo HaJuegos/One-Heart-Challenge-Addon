@@ -56,4 +56,4 @@ Problemas comunes en esta version:
 -El espectador puede interactuar con el mundo
 -El espectador puede agarrar items
 -El espectador puede ver interfaces
--Se plantea hacer una mejora al modo espectador en forma visual
+-Se plantea hacer una mejora al modo espectador en forma visual.
