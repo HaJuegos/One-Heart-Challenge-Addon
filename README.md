@@ -15,7 +15,7 @@ Cualquier reporte de bug o idea para mejorar se agradecera bastante o hasta se p
 [ESP - GUIA DE USO]
 - Generalmente todo el add-on por el momento es automatico y no tienes que hacer nada fuera de lo normal que es poner las Texturas y el Comportamiento en tu mundo
 - **ADVERTENCIA:** El add-on al usar funciones experimentales, puede que hayan errores que son parte de Minecraft Vanilla en general y no hayan soluciones, Por Favor sea especifico y detallista al reportar o encontrar un bug
-- Si llegara el caso que tengas un error o simplemente moriste y quieres jugar nuevamente, puedes utilizar el comando: "/function revive_lol" y este automaticamente te regresara la vida en el mundo
+- Si llegara el caso que tengas un error o simplemente moriste y quieres jugar nuevamente, puedes utilizar el comando: "/function revive_lol" y este automaticamente te regresara la vida en el mundo.
 
 
 **[EXPERIMENTAL FEATURES / OPCIONES EXPERIMENTALES]**
