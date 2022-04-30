@@ -1,0 +1,24 @@
+## This file belongs to: "Ha Juegos" (Copyright 2022), Any unauthorized modification or change will be penalized, more information to authorize your copies you can contact me on discord: https://discord.gg/p6a7tqVJxn
+## My youtube channel for more updates: https://www.youtube.com/c/HaJuegos
+## ********************************************************************
+## Este archivo pertenece a: "Ha Juegos" (Copyright 2022), Cualquier modificación o cambio no autorizado será sancionado, más información para autorizar tus copias puedes contactar conmigo en discord: https://discord.gg/p6a7tqVJxn
+## Mi canal de youtube para más actualizaciones: https://www.youtube.com/c/HaJuegos
+
+## Warning! English translations are not all very accurate, if you see something wrong, report it on my discord server or if you want to help with translations! (Server in Spanish but send me MD if you don't know Spanish)
+
+message.coordinates.dead.player=§7His body was last seen at: 
+counter.name.screen=§7Total number of people
+score.screen.dead_players=§cDead: 
+welcome.message=§a-Welcome! You are using version v1.0.0 of the Add-on.%1
+welcome.message_v2= If you like the add-on or have any problems, please let me know on my Discord Server: https://discord.gg/p6a7tqVJxn or in direct message as: Ha Juegos#0123 %1. §cGood luck in your challenge!
+dead_player.message=§c%1 is dead! He was disqualified.
+dead_player.spect=§bYou died! Your gamemode is locked to Spectator. GG bro
+revive.person.message=§b%1 has come back to life, great, isn't it?
+
+deathScreen.respawn=Spectate world
+
+item.ha:random_follow_item=Teleporting to a random person
+item.ha:follow_range_item=Teletransport to a person nearby
+
+item.itemLock.popupNotice.cantDrop=§r
+item.itemLock.popupNotice.cantMove=§r
