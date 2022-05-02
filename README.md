@@ -22,5 +22,7 @@ Cualquier reporte de bug o idea para mejorar se agradecera bastante o hasta se p
 - _Este add-on requiere de estas opciones experimentales activas en tu mundo para poder funcionan de forma correcta, Procura tenerlo activo. / This add-on requires these experimental options to be active in your world in order to work properly, try to have it active._
 
 ![experimentalfeatures](https://user-images.githubusercontent.com/102632956/166122120-e9197407-5e3a-44ea-a3c7-4d0772c79bc0.png)
+![Captura de pantalla 2022-05-01 211818](https://user-images.githubusercontent.com/102632956/166176855-3ff91450-d974-4cee-98af-670c415735f7.png)
 
 ![opcionesexperimentales](https://user-images.githubusercontent.com/102632956/166122121-bb40634f-e413-4de3-acb2-ac96109c674b.png)
+![Captura de pantalla 2022-05-01 211818](https://user-images.githubusercontent.com/102632956/166176855-3ff91450-d974-4cee-98af-670c415735f7.png)
