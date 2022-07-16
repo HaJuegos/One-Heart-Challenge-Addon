@@ -41,5 +41,6 @@ Any bug report or idea for improvement will be greatly appreciated or even rewar
 
 
 ## COMO INSTALAR EL ADD-ON EN SERVIDORES / HOW TO INSTALL THE ADD-ON ON SERVERS
-[**__MIRAR TUTORIAL__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers)
-[**__WATCH TUTORIAL, warning! this tutorial is completely in Spanish__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers)
+- [**__MIRAR TUTORIAL__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers)
+
+- [**__WATCH TUTORIAL, warning! this tutorial is completely in Spanish__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers)
