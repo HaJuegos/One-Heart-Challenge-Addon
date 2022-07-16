@@ -1,28 +1,45 @@
-# One-Heart-Challenge-Addon
+<p align="center">
+  <img src="https://github.com/HaJuegos/One-Heart-Challenge-Addon/blob/main/.github/pack_icon.png" alt="Addon Icon" width=200>
+  <h3 align="center">One Heart Challenge Add-on</h3>
+  
+ <p align="center">
+A great challenge for the player, no totems, only regeneration. Will you make it through the game? / Un gran reto para el jugador, sin tótems, sólo regeneración. ¿Lograras pasar el juego?</p>
+</p>
+
+<p align="center">
+  <a href="https://discord.gg/p6a7tqVJxn"><img src="https://img.shields.io/discord/782053401281429504?style=plastic&color=red&logo=discord&label=Discord%20Server" alt="Discord "/></a>
+  <a href="https://ko-fi.com/hajuegos0710"><img src="https://img.shields.io/npm/v/express?url=https://ko-fi.com/hajuegos0710&style=plastic&logo=kofi&label=My%20Donations%20page&color=inactive" alt="Ko-Fi "/></a>
+  <a href="https://github.com/HaJuegos/One-Heart-Challenge-Addon"><img src="https://img.shields.io/github/stars/HaJuegos/One-Heart-Challenge-Addon?label=Current%20stars&style=plastic&logo=github&color=blueviolet" alt="GitHub Stars "/></a>
+</p>
+<p align="center">
+  <a href="https://twitter.com/ha_juegos?s=09"><img src="https://img.shields.io/twitter/follow/ha_juegos?style=plastic&color=success&logo=twitter&label=My%20Twitter" alt="Twitter "/></a>
+  <a href="https://www.youtube.com/watch?v=SWd6QM0TTJo"><img src="https://img.shields.io/youtube/views/SWd6QM0TTJo?style=plastic&logo=youtube&color=red&label=Video%20tutorial%20in%20Spanish" alt="Youtube "/></a>
+</p>
+
+## NOTAS DE USO / NOTES FOR USE
+
 [ENG]
-- This add-on is an early version for all public, which was created only by Ha Juegos#0123 (And the scripts to CibNumeritos#4239) and belongs to Ha Juegos#0123, Any copy or unauthorized modification or upload, external download links, Upload content with the add-on without leaving permissions and say it is your property. is completely punishable. For more information about your modifications or anything else, contact me privately in discord (Ha Juegos#0123), via twitter (https://twitter.com/ha_juegos) or via mail (hajuegos87@gmail.com). Thanks for downloading and testing this add-on :D. I know it can be improved a lot with time to get to a final version. Enjoy! If you saw a bug or want to report something to improve, you can do it directly on this GitHub project (https://github.com/HaJuegos/One-Heart-Challenge-Addon/issues) or on my discord server (https://discord.gg/p6a7tqVJxn) **WARNING: Server completely in Spanish**.
+- This add-on was created only by Ha Juegos#0123 and belongs to Ha Juegos#0123, Any copy or unauthorized modification or upload, external download links, Upload content with the add-on without leaving permissions and say it is your property. is completely punishable. For more information about your modifications or anything else, contact me privately in discord (Ha Juegos#0123), via twitter (https://twitter.com/ha_juegos) or via mail (hajuegos87@gmail.com). Thanks for downloading and testing this add-on :D. I know it can be improved a lot with time to get to a final version. Enjoy! If you saw a bug or want to report something to improve, you can do it directly on this GitHub project (https://github.com/HaJuegos/One-Heart-Challenge-Addon/issues/new/choose) or on my discord server (https://discord.gg/p6a7tqVJxn). Any bug report or improvement idea will be very appreciated or even rewarded in the future. **WARNING: Server completely in Spanish**.
 Any bug report or idea for improvement will be greatly appreciated or even rewarded in the future.
 
 [ESP]
-- Este Add-on es una version temprana para todo publico, el cual fue creado unicamente por Ha Juegos#0123 (Y los scripts a CibNumeritos#4239) y pertenece a Ha Juegos#0123, Cualquier copia o modificacion no autorizada o subida, Links de descargas externos, Subir contenido con el add-on sin dejar permisos y decir que es de tu propiedad. es completamente sancionable. Para mas informacion sobre tus modificaciones o otro tipo de cosa, contactame en Privado en discord (Ha Juegos#0123), via twitter (https://twitter.com/ha_juegos) o via correo (hajuegos87@gmail.com). Gracias por descargar y probar este add-on :D. Se que se puede mejorar bastante con el tiempo para llegar a una version definitiva. Disfruta!. Si viste un bug o quiere reportar algo para mejorar, puedes hacerlo directamente en este proyecto de GitHub (https://github.com/HaJuegos/One-Heart-Challenge-Addon/issues) o en mi server de discord (https://discord.gg/p6a7tqVJxn) 
-Cualquier reporte de bug o idea para mejorar se agradecera bastante o hasta se puede recompensar en el futuro.
+- Este Add-on fue creado unicamente por Ha Juegos#0123 y pertenece a Ha Juegos#0123, Cualquier copia o modificacion no autorizada o subida, Links de descargas externos, Subir contenido con el add-on sin dejar permisos y decir que es de tu propiedad. es completamente sancionable. Para mas informacion sobre tus modificaciones o otro tipo de cosa, contactame en Privado en discord (Ha Juegos#0123), via twitter (https://twitter.com/ha_juegos) o via correo (hajuegos87@gmail.com). Gracias por descargar y probar este add-on :D. Se que se puede mejorar bastante con el tiempo para llegar a una version definitiva. Disfruta!. Si viste un bug o quiere reportar algo para mejorar, puedes hacerlo directamente en este proyecto de GitHub (https://github.com/HaJuegos/One-Heart-Challenge-Addon/issues/new/choose) o en mi server de discord (https://discord.gg/p6a7tqVJxn) Cualquier reporte de bug o idea para mejorar se agradecera bastante o hasta se puede recompensar en el futuro.
+
+## GUIA DE USO / OPERATION GUIDE
 
 [ENG - USER GUIDE]
-- Generally all the add-on at the moment is automatic and you don't have to do anything out of the ordinary which is to set Textures and Behavior in your world.
-- **WARNING:** As the add-on uses experimental features, there may be bugs that are part of Minecraft Vanilla in general and there are no fixes, please be specific and detailed when reporting or finding a bug.
-- If you have a bug or simply died and want to play again, you can use the command: "/function revive_lol" and it will automatically bring you back to life in the world.
+- **The Add-on only supports Minecraft Bedrock version 1.19.10, any other version lower or higher may damage or generate unexpected bugs.**
+- Everything in the add-on is automatic, so all you have to do is use the world template and create a new world. Example: [**__SEE IMAGE__**](https://media.discordapp.net/attachments/964653057390546954/997570733473550536/exmple.png)
 
 [ESP - GUIA DE USO]
-- Generalmente todo el add-on por el momento es automatico y no tienes que hacer nada fuera de lo normal que es poner las Texturas y el Comportamiento en tu mundo
-- **ADVERTENCIA:** El add-on al usar funciones experimentales, puede que hayan errores que son parte de Minecraft Vanilla en general y no hayan soluciones, Por Favor sea especifico y detallista al reportar o encontrar un bug
-- Si llegara el caso que tengas un error o simplemente moriste y quieres jugar nuevamente, puedes utilizar el comando: "/function revive_lol" y este automaticamente te regresara la vida en el mundo.
+- **El Add-on solo soporta la version 1.19.10 de Minecraft Bedrock, Cualquier otra inferior o superior puede dañar o generar bugs inesperados**
+- Todo en el add-on es automatico, asi que lo unico que debes hacer, es usar el template y crear un mundo nuevo. Ejemplo: [**__Ver imagen__**](https://media.discordapp.net/attachments/964653057390546954/997570733473550536/exmple.png)
 
 
-**[EXPERIMENTAL FEATURES / OPCIONES EXPERIMENTALES]**
-- _Este add-on requiere de estas opciones experimentales activas en tu mundo para poder funcionan de forma correcta, Procura tenerlo activo. / This add-on requires these experimental options to be active in your world in order to work properly, try to have it active._
+## OPCIONES EXPERIMENTALES / EXPERIMENTAL FEATURES
+- _Este add-on, depende de opciones experimentales, ya los puedes ver en el template del mundo y cuando lo crees, Procura tenerlo activo. / This add-on, depending on experimental options, you can already see them in the world template and when you create it, try to have it active._
 
-![experimentalfeatures](https://user-images.githubusercontent.com/102632956/166122120-e9197407-5e3a-44ea-a3c7-4d0772c79bc0.png)
-![Captura de pantalla 2022-05-01 211818](https://user-images.githubusercontent.com/102632956/166176855-3ff91450-d974-4cee-98af-670c415735f7.png)
 
-![opcionesexperimentales](https://user-images.githubusercontent.com/102632956/166122121-bb40634f-e413-4de3-acb2-ac96109c674b.png)
-![Captura de pantalla 2022-05-01 211818](https://user-images.githubusercontent.com/102632956/166176855-3ff91450-d974-4cee-98af-670c415735f7.png)
+## COMO INSTALAR EL ADD-ON EN SERVIDORES / HOW TO INSTALL THE ADD-ON ON SERVERS
+[**__MIRAR TUTORIAL__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers)
+[**__WATCH TUTORIAL, warning! this tutorial is completely in Spanish__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers)
