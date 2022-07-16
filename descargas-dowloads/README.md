@@ -1,5 +1,6 @@
 ### CHANGELOG V1.0.1
 
+```txt
 [ENG]
 
 ********[ IMPORTANT ]*******
@@ -79,3 +80,4 @@ VERSION 1.0.0
 -Al morir, te dira las coordenadas de tu ultima muerte (Gracias cib por la ayuda <3)
 -Con el comando "/function revive_lol" puedes volver a la vida y volver a jugar en tu mundo
 -Proximamente version mas dificil!
+```
