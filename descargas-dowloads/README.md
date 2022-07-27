@@ -1,3 +1,20 @@
+### DESCARGAS RAPIDAS
+
+- Add-on Por separado:
+
+[**__DESCARGAR TEXTURAS__**](https://github.com/HaJuegos/One-Heart-Challenge-Addon/raw/main/descargas-dowloads/mcaddon-mcpack/Textures-Texturas.mcpack)
+[**__DESCARGAR COMPORTAMIENTOS__**](https://github.com/HaJuegos/One-Heart-Challenge-Addon/raw/main/descargas-dowloads/mcaddon-mcpack/Behavior-Comportamientos.mcpack)
+
+- Mundo Template con todo ya configurado:
+
+[**__DESCARGAR MUNDO__**](https://github.com/HaJuegos/One-Heart-Challenge-Addon/raw/main/descargas-dowloads/world_template/One%20Heart%20Challenge%20World%20Template%20By%20Ha%20Juegos.mctemplate)
+
+- Archivos Zip para uso libre:
+
+[**__DESCARGAR TEXTURAS__**](https://github.com/HaJuegos/One-Heart-Challenge-Addon/raw/main/descargas-dowloads/zip/Textures-Texturas.zip)
+[**__DESCARGAR COMPORTAMIENTOS__**](https://github.com/HaJuegos/One-Heart-Challenge-Addon/raw/main/descargas-dowloads/zip/Behavior-Comportamientos.zip)
+
+
 ### CHANGELOG V1.0.1
 
 ```txt
