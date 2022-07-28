@@ -29,11 +29,13 @@ Any bug report or idea for improvement will be greatly appreciated or even rewar
 
 [ENG - USER GUIDE]
 - **The Add-on only supports Minecraft Bedrock version 1.19.10, any other version lower or higher may damage or generate unexpected bugs.**
-- Everything in the add-on is automatic, so all you have to do is use the world template and create a new world. Example: [**__SEE IMAGE__**](https://media.discordapp.net/attachments/964653057390546954/997570733473550536/exmple.png)
+- Everything in the add-on is automatic
+- If you use the world template, please follow these steps if you don't know how to do it: [**__SEE IMAGE__**](https://media.discordapp.net/attachments/964653057390546954/997570733473550536/exmple.png)
 
 [ESP - GUIA DE USO]
 - **El Add-on solo soporta la version 1.19.10 de Minecraft Bedrock, Cualquier otra inferior o superior puede dañar o generar bugs inesperados**
-- Todo en el add-on es automatico, asi que lo unico que debes hacer, es usar el template y crear un mundo nuevo. Ejemplo: [**__Ver imagen__**](https://media.discordapp.net/attachments/964653057390546954/997570733473550536/exmple.png)
+- Todo en el add-on es automatico
+- Si usas el world template, por favor sigue estos pasos si no concoces como se hace: [**__Ver imagen__**](https://media.discordapp.net/attachments/964653057390546954/997570733473550536/exmple.png)
 
 
 ## OPCIONES EXPERIMENTALES / EXPERIMENTAL FEATURES
