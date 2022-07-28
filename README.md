@@ -39,6 +39,9 @@ Any bug report or idea for improvement will be greatly appreciated or even rewar
 ## OPCIONES EXPERIMENTALES / EXPERIMENTAL FEATURES
 - _Este add-on, depende de opciones experimentales, ya los puedes ver en el template del mundo y cuando lo crees, Procura tenerlo activo. / This add-on, depending on experimental options, you can already see them in the world template and when you create it, try to have it active._
 
+![eng](https://cdn.discordapp.com/attachments/997603479822536794/1002035488913367080/experiments_eng.png)
+![esp](https://cdn.discordapp.com/attachments/997603479822536794/1002035489282470019/experimentos_esp.png)
+
 
 ## COMO INSTALAR EL ADD-ON EN SERVIDORES / HOW TO INSTALL THE ADD-ON ON SERVERS
 - [**__MIRAR TUTORIAL__**](https://github.com/HaJuegos/The-Games-Store/tree/main/Betas/como%20instalar%20un%20add-on%20en%20servers)
