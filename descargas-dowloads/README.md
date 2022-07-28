@@ -1,6 +1,9 @@
 # DESCARGAS RAPIDAS
 ## [ESP]
 
+- Descargar Todo del add-on (Mundo, comportamientos y texturas):
+	- [**__DESCARGAR TODO__**](https://github.com/HaJuegos/One-Heart-Challenge-Addon/raw/main/descargas-dowloads/All%20files%20in%20one-Todos%20los%20archivos%20en%20uno.mcaddon)
+
 - Add-on Por separado:
 
 	- [**__DESCARGAR TEXTURAS__**](https://github.com/HaJuegos/One-Heart-Challenge-Addon/raw/main/descargas-dowloads/mcaddon-mcpack/Textures-Texturas.mcpack)
@@ -16,6 +19,9 @@
 	- [**__DESCARGAR COMPORTAMIENTOS__**](https://github.com/HaJuegos/One-Heart-Challenge-Addon/raw/main/descargas-dowloads/zip/Behavior-Comportamientos.zip)
 	
 ## [ENG]
+
+- Download all add-on (World, behaviors and textures):
+	- [**__DOWNLOAD ALL__**](https://github.com/HaJuegos/One-Heart-Challenge-Addon/raw/main/descargas-dowloads/All%20files%20in%20one-Todos%20los%20archivos%20en%20uno.mcaddon)
 
 - Add-on Separately:
 
