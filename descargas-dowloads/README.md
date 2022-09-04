@@ -1,4 +1,4 @@
-# DESCARGAS RAPIDAS
+# DESCARGAS RAPIDAS / FAST DOWNLOADS
 ## [ESP]
 
 - Descargar Todo del add-on (Mundo, comportamientos y texturas):
